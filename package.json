@@ -1,0 +1,33 @@
+{
+  "name": "gpt2-transformer",
+  "version": "1.0.0",
+  "description": "使用JavaScript实现的类GPT-2架构的Transformer模型，100%还原其原理",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "example": "node example.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "transformer",
+    "gpt2",
+    "neural-network",
+    "attention",
+    "language-model",
+    "javascript",
+    "deep-learning",
+    "education",
+    "tutorial"
+  ],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/gpt2-transformer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/YOUR_USERNAME/gpt2-transformer/issues"
+  },
+  "homepage": "https://github.com/YOUR_USERNAME/gpt2-transformer#readme"
+}
+
